@@ -1,4 +1,4 @@
-FROM camptocamp/odoo-project:9.0-3.1.2
+FROM camptocamp/odoo-project:9.0-4.1.0
 MAINTAINER Camptocamp
 
 RUN set -x; \
